@@ -1,0 +1,12 @@
+D:\Documents\dev\Course\Estudo-CSharp-Avancado\00_Biblioteca\bin\Debug\net7.0\00_Biblioteca.deps.json
+D:\Documents\dev\Course\Estudo-CSharp-Avancado\00_Biblioteca\bin\Debug\net7.0\00_Biblioteca.dll
+D:\Documents\dev\Course\Estudo-CSharp-Avancado\00_Biblioteca\bin\Debug\net7.0\00_Biblioteca.pdb
+D:\Documents\dev\Course\Estudo-CSharp-Avancado\00_Biblioteca\obj\Debug\net7.0\00_Biblioteca.csproj.AssemblyReference.cache
+D:\Documents\dev\Course\Estudo-CSharp-Avancado\00_Biblioteca\obj\Debug\net7.0\00_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\dev\Course\Estudo-CSharp-Avancado\00_Biblioteca\obj\Debug\net7.0\00_Biblioteca.AssemblyInfoInputs.cache
+D:\Documents\dev\Course\Estudo-CSharp-Avancado\00_Biblioteca\obj\Debug\net7.0\00_Biblioteca.AssemblyInfo.cs
+D:\Documents\dev\Course\Estudo-CSharp-Avancado\00_Biblioteca\obj\Debug\net7.0\00_Biblioteca.csproj.CoreCompileInputs.cache
+D:\Documents\dev\Course\Estudo-CSharp-Avancado\00_Biblioteca\obj\Debug\net7.0\00_Biblioteca.dll
+D:\Documents\dev\Course\Estudo-CSharp-Avancado\00_Biblioteca\obj\Debug\net7.0\refint\00_Biblioteca.dll
+D:\Documents\dev\Course\Estudo-CSharp-Avancado\00_Biblioteca\obj\Debug\net7.0\00_Biblioteca.pdb
+D:\Documents\dev\Course\Estudo-CSharp-Avancado\00_Biblioteca\obj\Debug\net7.0\ref\00_Biblioteca.dll

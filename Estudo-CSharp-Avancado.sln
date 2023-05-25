@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Serializar -Deserializar", "01 - Serializar -Deserializar", "{3D54EAEC-3064-4F5B-976A-395156BD8999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Biblioteca", "00_Biblioteca\00_Biblioteca.csproj", "{E0C66731-5F92-487A-B7AF-0D110CE93907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_SerializarXML", "01_SerializarXML\01_SerializarXML.csproj", "{5BDB595E-7929-4FEA-B447-A8642D2624D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_DeserializarXML", "02_DeserializarXML\02_DeserializarXML.csproj", "{ABD3B56B-AB14-4B1C-97F3-E1B3350A9F1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0C66731-5F92-487A-B7AF-0D110CE93907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C66731-5F92-487A-B7AF-0D110CE93907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C66731-5F92-487A-B7AF-0D110CE93907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C66731-5F92-487A-B7AF-0D110CE93907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BDB595E-7929-4FEA-B447-A8642D2624D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDB595E-7929-4FEA-B447-A8642D2624D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDB595E-7929-4FEA-B447-A8642D2624D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDB595E-7929-4FEA-B447-A8642D2624D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD3B56B-AB14-4B1C-97F3-E1B3350A9F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD3B56B-AB14-4B1C-97F3-E1B3350A9F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD3B56B-AB14-4B1C-97F3-E1B3350A9F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD3B56B-AB14-4B1C-97F3-E1B3350A9F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E0C66731-5F92-487A-B7AF-0D110CE93907} = {3D54EAEC-3064-4F5B-976A-395156BD8999}
+		{5BDB595E-7929-4FEA-B447-A8642D2624D4} = {3D54EAEC-3064-4F5B-976A-395156BD8999}
+		{ABD3B56B-AB14-4B1C-97F3-E1B3350A9F1D} = {3D54EAEC-3064-4F5B-976A-395156BD8999}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D9DEBC8-B937-465E-96F0-A8EC07B5E335}
+	EndGlobalSection
+EndGlobal
