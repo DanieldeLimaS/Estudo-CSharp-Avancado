@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Serializar -Deserializar", "01 - Serializar -Deserializar", "{3D54EAEC-3064-4F5B-976A-395156BD8999}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Serialização", "01 - Serialização", "{3D54EAEC-3064-4F5B-976A-395156BD8999}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00_Biblioteca", "00_Biblioteca\00_Biblioteca.csproj", "{E0C66731-5F92-487A-B7AF-0D110CE93907}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serealizar-Deserializar", "Serealizar-Deserializar\Serealizar-Deserializar.csproj", "{73946E48-217D-405F-B224-211ADDD326C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Topicos Avançados", "02 - Topicos Avançados", "{6B7C7B27-4B5A-4AD2-BA4D-A23DEC950A84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{291E961E-09F9-40E6-B758-2BD1F25844FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +27,10 @@ Global
 		{73946E48-217D-405F-B224-211ADDD326C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73946E48-217D-405F-B224-211ADDD326C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73946E48-217D-405F-B224-211ADDD326C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{291E961E-09F9-40E6-B758-2BD1F25844FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291E961E-09F9-40E6-B758-2BD1F25844FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291E961E-09F9-40E6-B758-2BD1F25844FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291E961E-09F9-40E6-B758-2BD1F25844FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E0C66731-5F92-487A-B7AF-0D110CE93907} = {3D54EAEC-3064-4F5B-976A-395156BD8999}
 		{73946E48-217D-405F-B224-211ADDD326C0} = {3D54EAEC-3064-4F5B-976A-395156BD8999}
+		{291E961E-09F9-40E6-B758-2BD1F25844FE} = {6B7C7B27-4B5A-4AD2-BA4D-A23DEC950A84}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8D9DEBC8-B937-465E-96F0-A8EC07B5E335}
