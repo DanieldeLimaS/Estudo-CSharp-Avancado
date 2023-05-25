@@ -1,6 +1,7 @@
 ﻿using _00_Biblioteca;
 using System.Xml.Serialization;
 
+
 StreamReader stream = new StreamReader(@"D:\Documents\dev\Course\Estudo-CSharp-Avancado\01_SerializarXML.xml");
 
 XmlSerializer serializador = new XmlSerializer(typeof(Usuario));
